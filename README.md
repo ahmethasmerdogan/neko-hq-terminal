@@ -3,7 +3,7 @@
 Claude CLI (Claude Code) çalışırken her oturumu bir kedi olarak, **doğrudan
 terminalde** (tarayıcı yok) sevimli bir piksel kafede gösterir. Soru sorunca /
 araçlar çalışınca kediler yazar; sessizlikte uyurlar. İsim ve renk gibi
-özelleştirmeler **arayüzden** yapılır (json düzenlemek yok).
+özelleştirmeler **arayüzden** yapılır 
 
 ![önizleme](docs/preview.png)
 
